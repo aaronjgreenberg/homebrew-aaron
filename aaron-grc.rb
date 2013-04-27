@@ -3,7 +3,7 @@ require 'formula'
 class AaronGrc < Formula
   homepage 'http://korpus.juls.savba.sk/~garabik/software/grc.html'
   url 'https://github.com/aaronjgreenberg/grc/archive/master.zip'
-  sha1 '19f3060bfd1b9b9ae8d03cc80d489af80679e07b'
+  sha1 '381f686d014c005c74fc22d87b27302551ff50be'
   version '2.0.0'
 
   def install
