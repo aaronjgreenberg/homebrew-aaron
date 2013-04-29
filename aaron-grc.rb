@@ -3,7 +3,7 @@ require 'formula'
 class AaronGrc < Formula
   homepage 'http://korpus.juls.savba.sk/~garabik/software/grc.html'
   url 'https://github.com/aaronjgreenberg/grc.git'
-  version '5'
+  version '6'
 
   def install
     inreplace ['bin/grc', 'share/man/man1/grc.1'], '/etc', etc
